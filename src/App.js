@@ -12,7 +12,6 @@ function App() {
     const [input, setInput] = useState("");
     const [messages, setmessages] = useState([]);
     const [userName, setUserName] = useState("");
-
     useEffect(() => {
         setUserName(prompt("Enter your Name"));
     }, []);
