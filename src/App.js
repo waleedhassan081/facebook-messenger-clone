@@ -43,7 +43,7 @@ function App() {
     return (
         <div className="App">
             <img src="https://facebookbrand.com/wp-content/uploads/2018/09/Header-e1538151782912.png?w=100&h=100" />
-            <h1>Facebook Messenger Clone </h1>
+            <h1>Facebook Messenger Clone Developed By Waleed</h1>
             <h3>Welcome {userName}</h3>
             <form className="app__form">
                 <FormControl className="app__formControl">
